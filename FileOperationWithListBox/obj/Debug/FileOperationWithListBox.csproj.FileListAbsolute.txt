@@ -1,0 +1,4 @@
+E:\103407\02052015\FileOperationWithListBox\FileOperationWithListBox\bin\Debug\FileOperationWithListBox.exe.config
+E:\103407\02052015\FileOperationWithListBox\FileOperationWithListBox\obj\Debug\FileOperationWithListBox.Form1.resources
+E:\103407\02052015\FileOperationWithListBox\FileOperationWithListBox\obj\Debug\FileOperationWithListBox.Properties.Resources.resources
+E:\103407\02052015\FileOperationWithListBox\FileOperationWithListBox\obj\Debug\FileOperationWithListBox.csproj.GenerateResource.Cache
